@@ -1,0 +1,6 @@
+{
+  "template": "python", 
+  "ports": [3000],
+  "name": "Publify",
+  "logo": "http://i.imgur.com/DD6AioH.png"
+}
