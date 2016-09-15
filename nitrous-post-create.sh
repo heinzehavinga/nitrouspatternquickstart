@@ -5,3 +5,4 @@ sudo apt-get update
 sudo apt-get clean
 
 sudo pip install pattern
+sudo pip install simhash
